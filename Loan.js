@@ -27,7 +27,7 @@ loanAmount.innerHTML = '₹' + loan_amount_input;
 } 
 
 computeResults();
-
+  
 calculateBtn.addEventListener('click',computeResults)
 let chart;
 
